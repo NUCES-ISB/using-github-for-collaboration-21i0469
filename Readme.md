@@ -7,4 +7,4 @@
 3. install the dependencies
     pip install -r requirement.txt
 
-4. 
+4. Occasionally commit the changes made to the to the local repository 
